@@ -2,7 +2,7 @@
 
 ## 📌 Présentation
 
-Ce projet a été réalisé **en autonomie** dans le cadre de ma formation en **BUT Réseaux & Télécommunications** (parcours **Cybersécurité**). Il vise à **concevoir, configurer et sécuriser une architecture réseau virtualisée**, à l’aide de **pfSense**.
+Ce projet vise à **concevoir, configurer et sécuriser une architecture réseau virtualisée**, à l’aide de **pfSense**.
 
 L’objectif principal est de **segmenter le réseau** en trois zones (LAN, DMZ, WAN), **configurer un pare-feu**, mettre en place un **serveur web dans la DMZ**, et **contrôler les flux réseau** à l’aide de règles de firewall et de NAT.
 
